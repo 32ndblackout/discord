@@ -6,8 +6,8 @@
  * @source https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/tree/master/Themes/GGO_Kirito
  */
 
-@import url('Sub_Folder\transparency_module.css');
-@import url('Sub_Folder\GG_kirito_CORE.css');
+@import url('GGO_KIRITO\transparency_module.css');
+@import url('GGO_KIRITO\GG_kirito_CORE.css');
 
 
 :root{
